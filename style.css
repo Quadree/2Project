@@ -1,0 +1,12 @@
+.listclass{
+   display: inline;
+    color: dodgerblue;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family:Potta One;
+    font-size: 20px;
+}
+#Show_reviews{
+    width: 3000px;
+    height: 3000px;
+}
